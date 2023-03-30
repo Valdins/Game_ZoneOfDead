@@ -17,7 +17,7 @@ Move Right: D or →
 Aim and Shoot: Mouse
 
 ## How to Run the Game
-Clone the repository: git clone https://github.com/username/repo.git
+Clone the repository: git clone https://github.com/Valdins/Game_ZoneOfDead.git
 
 Install Processing (Java) from https://processing.org/download/
 
