@@ -18,8 +18,11 @@ Aim and Shoot: Mouse
 
 ## How to Run the Game
 Clone the repository: git clone https://github.com/username/repo.git
+
 Install Processing (Java) from https://processing.org/download/
+
 Open the Zone_of_dead.pde file in Processing
+
 Click the "Run" button in Processing to start the game
 
 ## Acknowledgments
